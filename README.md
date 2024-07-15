@@ -2,7 +2,7 @@
 
 [![Site](https://img.shields.io/website?label=henriquepapiledev.com&style=for-the-badge&url=https://henriquepapiledev.github.io/)](https://henriquepapiledev.github.io/)
 <div style="display: inline_block">
-  <p>Olá! Sou Henrique Papile, tenho 31 anos e resido em São Paulo, Brasil. Me formei em Análise e Desenvolvimento de Sistemas pela Uninove.</p>
+  <p>Tenho 31 anos e resido em São Paulo, Brasil. Me formei em Análise e Desenvolvimento de Sistemas pela Uninove.</p>
   <p>Nos últimos 6 anos, acumulei valiosa experiência no campo do desenvolvimento Front End, dominando ferramentas como HTML, CSS, Tailwind, Bootstrap, JavaScript, WordPress e Strapi. Atualmente, estou imerso no estudo do React.</p>
   <p>Minha constante busca é contribuir para a criação de soluções inovadoras e de excelência, sempre aprimorando minhas habilidades no desenvolvimento Front End.</p>
 </div>
